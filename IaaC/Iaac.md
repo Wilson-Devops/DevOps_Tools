@@ -30,4 +30,4 @@
  - Disadvantages
       
     -  Bugs
-    -        
+    -  Support for new cloud services takes time
