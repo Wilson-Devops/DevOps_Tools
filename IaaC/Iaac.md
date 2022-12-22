@@ -1,4 +1,4 @@
-##  Iaac Introduction 
+##  Iaac
    - Course Introduction
 
 - Introduction to Infrastructure as Code
